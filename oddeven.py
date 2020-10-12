@@ -1,4 +1,4 @@
-GNU nano 5.2          oddeve
+
 print("script by Pritam Behera")
 print
 print("https://github.com/thelearn-tech/maths")
